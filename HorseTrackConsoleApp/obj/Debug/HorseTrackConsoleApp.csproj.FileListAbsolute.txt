@@ -1,0 +1,6 @@
+E:\HorseTrack_POC\HorseTrackConsoleApp\HorseTrackConsoleApp\bin\Debug\HorseTrackConsoleApp.exe.config
+E:\HorseTrack_POC\HorseTrackConsoleApp\HorseTrackConsoleApp\bin\Debug\HorseTrackConsoleApp.exe
+E:\HorseTrack_POC\HorseTrackConsoleApp\HorseTrackConsoleApp\bin\Debug\HorseTrackConsoleApp.pdb
+E:\HorseTrack_POC\HorseTrackConsoleApp\HorseTrackConsoleApp\obj\Debug\HorseTrackConsoleApp.csproj.CoreCompileInputs.cache
+E:\HorseTrack_POC\HorseTrackConsoleApp\HorseTrackConsoleApp\obj\Debug\HorseTrackConsoleApp.exe
+E:\HorseTrack_POC\HorseTrackConsoleApp\HorseTrackConsoleApp\obj\Debug\HorseTrackConsoleApp.pdb
