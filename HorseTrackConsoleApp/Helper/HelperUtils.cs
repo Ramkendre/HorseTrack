@@ -24,7 +24,7 @@ namespace HorseTrackConsoleApp.Utils
         private  ICommandProvider IcommandProvider;
         private string UserInput = string.Empty;
         /// <summary>
-        /// Enter the user input command
+        /// Enter the user input command test comment
         /// </summary>
         /// <returns></returns>
         public InputDTO getUserInput()
